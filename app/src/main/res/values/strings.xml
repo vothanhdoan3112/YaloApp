@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">YaloChatApp</string>
+    <string name="logo">Yalo</string>
+    <string name="signIn">ĐĂNG NHẬP</string>
+    <string name="signUp">ĐĂNG KÝ</string>
+    <string name="signOut">Đăng xuất</string>
+    <string name="message">Tin nhắn</string>
+    <string name="phoneBook">Danh bạ</string>
+    <string name="Group">Nhóm</string>
+    <string name="todo">TODO</string>
+    <string name="reg">Đăng ký</string>
+    <string name="phoneNum">Số điện thoại</string>
+    <string name="password">Mật khẩu</string>
+    <string name="repassword">Nhập lại mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="PROCESSING">Đang thực hiện..</string>
+</resources>

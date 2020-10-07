@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorMainBlue">#0584E0</color>
+    <color name="colorBlueHover">#0168FF</color>
+    <color name="colorMessBox">#68BCF8</color>
+    <color name="colorGray">#D6D7D7</color>
+    <color name="PopupBackgroundColor">#2C2C2C</color>
+    <color name="text1">#ff222222</color>
+    <color name="colorControlActivated">#ffffff</color>
+</resources>
